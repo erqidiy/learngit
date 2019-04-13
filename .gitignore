@@ -1,0 +1,5 @@
+# C executable files
+*.exe
+
+# C complied files
+*.out
